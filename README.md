@@ -4,6 +4,16 @@
 
 Hatch is a card game where you manage dragons from the egg to the battlefield to build the strongest dragon dynasty. Each dragon has a unique value; summed together, they form the value of your dynasty. The first player to reach 200 points triggers the end of the game, and the player with the most points wins.
 
+# Cards and board
+
+## Card
+
+![image](https://github.com/agrum/Hatch/assets/2688838/ffab90fb-ec00-4e33-a126-1f0d530fd86c)
+
+## Board
+
+![HatchBoard drawio (1)](https://github.com/agrum/Hatch/assets/2688838/a985c5c1-45e2-48f3-9811-e1ab0ffbaafe)
+
 # Setup
 
 1. Shuffle the deck of cards.
