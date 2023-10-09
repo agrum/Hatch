@@ -8,7 +8,7 @@ Hatch is a card game where you manage dragons from the egg to the battlefield to
 
 ## Card
 
-![image](https://github.com/agrum/Hatch/assets/2688838/ffab90fb-ec00-4e33-a126-1f0d530fd86c)
+![image](https://github.com/agrum/Hatch/assets/2688838/6f9aa779-b4b8-4b3e-8dea-8ff730607472)
 
 ## Board
 
