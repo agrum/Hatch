@@ -31,6 +31,12 @@ You can place any card from your hand face down to indicate it's been played as 
 
 You can place any card from your hand face up under an egg to indicate it's being used as a resource. Make sure to keep the resource icon at the bottom of the card visible for you and other players. Make sure to provide the proper resources for your egg, as a malnourished egg will not hatch properly. You may look at your egg's requirements whenever you want.
 
+### Wild resource
+
+Some eggs have a more flexible resource requirement, indicated with a ☆ icon in top left section of the card. It indicates any basic resource can be used, square, triangle, circle or wild; but not a sacrifice.
+
+Inversely, some cards provide an all nurturing basic resource, indicated with a ☆ icon in the bottom center section of the card. It indicates it can be used to meet the requirement of any resource for an egg, square, triangle, circle or wild; but not a sacrifice. 
+
 ## Hatching an egg
 
 You can turn any egg face up to make it hatch. If the exact resources required for hatching are attached to the egg, the resources are consumed, and the dragon is now on the board, ready to attack. The resources used are sent to the discard pile. If the resources don't match exactly, e.g., not the right resources, too many, or not enough, both resources and dragon are sent to the discard pile.
@@ -39,7 +45,7 @@ Every time you hatch an egg, count your dynasty's value. If you hit 200, the end
 
 ### Sacrifice
 
-Some eggs require a dragon sacrifice to hatch. The sacrifice cost is indicated with a blood droplet icon at the top left of the card, along with the other basic resource costs. To hatch those eggs, one or more of your dragons must be sacrificed and sent to the discard pile. The blood droplet icon(s) below the dragon's value indicate their sacrifice value. Similarly to basic resources, the exact amount of sacrifice is necessary for a dragon to hatch safely—not too many sacrifices, not too little.
+Some eggs require a dragon sacrifice to hatch. The sacrifice cost is indicated with a blood droplet icon at the top left section of the card, along with the other basic resource costs. To hatch those eggs, one or more of your dragons must be sacrificed and sent to the discard pile. The blood droplet icon(s) below the dragon's value indicate their sacrifice value. Similarly to basic resources, the exact amount of sacrifice is necessary for a dragon to hatch safely—not too many sacrifices, not too little.
 
 # Attack
 
