@@ -23,11 +23,11 @@ Hatch is a card game where you manage dragons from the egg to the battlefield to
 
 # Taking turns
 
-1. Refill your hand up to five cards.
-2. Discard any mercenary dragon you contracted.
-3. Perform any internal action as many times as you want, in any order you want.
-4. You can perform an attack involving as many hatched dragons as you wish.
-5. Perform any internal action as many times as you want, in any order you want.
+1. Discard any mercenary dragon you contracted.
+2. Perform any internal action as many times as you want, in any order you want.
+3. You can perform an attack involving as many hatched dragons as you wish.
+4. Perform any internal action as many times as you want, in any order you want.
+5. Refill your hand up to five cards.
 
 # Internal actions
 
@@ -66,6 +66,8 @@ An attack is the only action you can perform against another player. It is also 
 
 Once sent, it is up to the defending player to organize their defence appropriately.
 
+You cannot attack a player who hasn't had a turn yet.
+
 ## Defence
 
 Each attacking dragon entering your territory will loot your land if it is not blocked. Only a dragon with a higher value than the attacker can be used to block that specific attacker. Only one dragon can be used as a blocker per attacker; you cannot team up. As a defender, you can either involve your own dragons or mercenary dragons to block each attacking dragon. Mercenary dragons are dragons played directly from your hand, face up but sideways, to indicate their contracted origin. They do not count towards your dynasty victory points pool, but they can defend like any of your own dragons. Once your turn begins, those contracted mercenaries go to the discard pile.
@@ -81,10 +83,10 @@ If all attackers were blocked successfully, it is now the end of the attack, and
 
 For each attacker that was not blocked, you can choose one of the following actions:
 
-- Steal one egg of your choice, along with all the resources attached to it. The egg and the resources are now on your territory and are yours for all intents and purposes. You may look at the egg card.
-- Draw three cards, add them to your hand, and then discard two cards. Those two cards do not need to be the ones you just drew.
+- Destroy one egg of your choice from the defender's board, along with all the resources attached to it. The egg and the resources are discarded.
+- Draw one card from the top of drawing deck or discard deck.
 
-After the attack, you can still perform as many internal actions as you wish, especially if you acquired new eggs and/or cards.
+After the attack, you can still perform as many internal actions as you wish, which might come in handy if you acquired new cards.
 
 # End of game
 
@@ -96,4 +98,4 @@ Once the end of the game was triggered and all players have had the same amount 
 
 ## Thanks
 
-Many thanks for the beta testers: Jason, Alex, Andrew, Shane, Amanda, Kai, Alistair
+Many thanks for the beta testers: Jason, Alex, Andrew, Shane, Amanda, Kai, Alistair, Nathan, Jake
