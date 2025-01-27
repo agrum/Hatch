@@ -57,9 +57,9 @@ Three eggs, resources and/or cards in hand can be discarded to provide one sacri
 
 ### Wild resource
 
-Some eggs have a more flexible resource requirement, indicated with a ⭘ icon in top left section of the card. It indicates any basic resource can be used, food, heat, love or wild; but not a sacrifice.
+Some eggs have a more flexible resource requirement, indicated with a ⭘ icon in top left section of the card. It indicates any basic resource can be used: food, fire, love or wild; but not a sacrifice.
 
-Inversely, some cards provide an all nurturing basic resource, indicated with a ☆ icon in the bottom center section of the card. It indicates it can be used to meet the requirement of any resource for an egg, square, triangle, circle or wild; but not a sacrifice. You can wait until hatch time to decide what resource the wild one will be used as. 
+Inversely, some cards provide an all nurturing basic resource, indicated with a ☆ icon in the bottom center section of the card. It indicates it can be used to meet the requirement of any resource for an egg, food, fire, love or wild; but not a sacrifice. You can wait until hatch time to decide what resource the wild one will be used as. 
 
 ## Hatching an egg
 
