@@ -2,7 +2,7 @@
 
 # Overview
 
-Hatch is a card game where you manage dragons from the egg to the battlefield to build the strongest dragon dynasty. Each dragon has a unique value; summed together, they form the value of your dynasty. The first player to reach 200 points triggers the end of the game, and the player with the most points wins.
+Hatch is a card game where you manage dragons from the egg to the battlefield to create the strongest empire. Each dragon contributes to the power of your empire. The first player to reach 200 power triggers the last round. At the end of it, the player with the most power wins.
 
 # Cards and board
 
@@ -16,97 +16,95 @@ Hatch is a card game where you manage dragons from the egg to the battlefield to
 
 # Setup
 
-1. Shuffle the deck of cards.
-2. Distribute five cards to each player.
+1. Shuffle the deck.
+2. Distribute five cards to each player, they can look at their own hand.
 3. Place the rest of the deck face down, within reach of all players, as the drawing deck.
-4. Select a starting player.
+4. Select a starting player, that player discard one card of their choice from their hand.
 
 # Taking turns
 
-1. Discard any mercenary dragon you revealed.
-2. Perform any internal action as many times as you want, in any order you want.
-3. You can perform an attack involving as many hatched dragons as you wish.
-4. Perform any internal action as many times as you want, in any order you want.
-5. Refill your hand up to five cards.
+1. Perform any number of actions in any order you want, some actions can be repeated.
+2. Refill your hand up to five cards.
 
 You cannot play cards from your hand outside of your turn.
 
-# Internal actions
+# Repeatable actions
 
-Internal actions relate to actions within your territory.
+Repeatable actions can be performed as often as you wish during your turn, and can be interjected by other actions.
 
 ## Laying an egg
 
-You can place any card from your hand face down to indicate it's been played as an egg. The top left section of the card indicates the resources necessary for the egg to hatch. Until you have placed enough resources on the card, the egg will not be able to hatch. 
+You can place any card from your hand face up on the first row of your board to indicate it's been played as an egg. The top left section of the card indicates the resources necessary for the egg to hatch. Until you have placed enough resources on the card, the egg will not be able to hatch. Additionally, you cannot hatch an egg that was laid this turn.
 
 ## Nurturing an egg
 
-You can place any card from your hand face up on one of your eggs to indicate it's being used as a resource to help the egg hatch. The icon at the bottom of the card is the resource provided to the egg. Make sure to provide the proper resources for your egg, as a malnourished egg will not hatch properly. You may look at your egg's requirements whenever you want.
+You can place any card from your hand face up, up side down, on one of your eggs to indicate it's being used as a resource to help the egg hatch. The icon at the bottom of the card is the resource provided to the egg. You cannot nurture your egg with a resource it doesn't need.
 
 ### Basic resources
 
 Most eggs require basic resources to hatch, those resources are:
 - Food
-- Heat
+- Fire
 - Love
 
 ### Sacrifice
 
-Some eggs require hatched dragons to be sacrificed in order to hatch. The sacrifice cost is indicated with a blood droplet icon at the top left section of the card, along with the other basic resource costs. Each dragon has a specific sacrifice value, visible at the bottom right of the card. Some dragons are only worth 1 sacrifice, while some can be worth up to 5. End game dragons have no sacrifice value and cannot be sacrificed.
+Some eggs require hatched dragons to be sacrificed in order to hatch. The sacrifice cost is indicated with one or multiple skull icons at the top left section of the card, along with the other basic resource costs. Each dragon has a specific sacrifice value, visible at the bottom right of the card. Some dragons are only worth one sacrifice, some are worth much more and some do not have a sacrifice value. A dragon with no sacrifice value cannot be sacrificed. 
 
-Only your hatched dragons can be used as sacrifices.
+Only your hatched dragons can be used as sacrifices, you cannot sacrifice a mercenary. When sacrificing a dragon, its sacrifice value can be spread over multiple eggs to help them hatch. Sacrifices must be used on the turn they were done, they do not carry over to the next turn.
+
+Three eggs, resources and/or cards in hand can be discarded to provide one sacrifice's worth.
 
 ### Wild resource
 
-Some eggs have a more flexible resource requirement, indicated with a ☆ icon in top left section of the card. It indicates any basic resource can be used, food, heat, love or wild; but not a sacrifice.
+Some eggs have a more flexible resource requirement, indicated with a ⭘ icon in top left section of the card. It indicates any basic resource can be used, food, heat, love or wild; but not a sacrifice.
 
-Inversely, some cards provide an all nurturing basic resource, indicated with a ☆ icon in the bottom center section of the card. It indicates it can be used to meet the requirement of any resource for an egg, square, triangle, circle or wild; but not a sacrifice. 
+Inversely, some cards provide an all nurturing basic resource, indicated with a ☆ icon in the bottom center section of the card. It indicates it can be used to meet the requirement of any resource for an egg, square, triangle, circle or wild; but not a sacrifice. You can wait until hatch time to decide what resource the wild one will be used as. 
 
 ## Hatching an egg
 
-You can turn any egg face up to make it hatch. If the exact resources required for hatching are attached to the egg, the resources are consumed, and the dragon is now on your territory, ready to attack. The resources used are sent to the discard pile, even the sacrifices. If the resources don't match exactly, e.g., not the right resources, too many, or not enough, both resources and dragon are sent to the discard pile.
+Move an egg to the second row of your board to signify it is hatching. You can only hatch an egg which has its resource needs met, and that wasn't laid this turn. Discard all resources that were placed on the egg. The resources used are sent to the discard pile; the sacrificed dragons as well. 
+If for any reason the resources don't match exactly, e.g., not the right resources, too many, or not enough, both resources and egg are sent to the discard pile.
 
-Every time you hatch an egg, count your dynasty's value. If you hit 200, the end of the game is triggered.
+Every time you hatch an egg, count your empire's power. If you hit 200, the end of the game is triggered.
 
 ## Contracting a mercenary
 
-A card can be placed face down, sideways, besides your hatched dragons. It can be flipped face up as a dragon when defending to bolster your army temporarily. When your turn begins, a face up mercenary must be discarded. Keep your mercenary card sideways to distinguish between your hatched dragons and the mercenary. A face down mercenary remains on your territory when your turn begins. Mercenaries do not count towards your dynasty value. You can only have a single mercenary at a time. You may discard your face down mercenary to replace it with an other one from your hand. Mercenaries cannot be used to attack.
+A card can be placed face down, sideways, on the second row. It indicates you have a single use mercenary dragon at the ready. A face down mercenary can remain on your board multiple turns, until you reveal it. You may reveal it whenever you see fit to perform an action or defend. A face up mercenary has the same capabilities as any of your hatched dragon. However, mercenaries do not count towards your empire power. Additionally, you must discard any face up mercenary after the action they were revealed for. You may only have one mercenary on your board at a time, face up or down. You may discard an unused mercenary.
 
-# Attack
+# Non-repeatable actions
 
-An attack is the only action you can perform against another player. It is also the only action that can be performed only once per turn. However, an attack can involve as many of your dragons as you wish.
+Non-repeatable actions are either attacks or rituals. You may only perform one attack OR ritual per turn. Similarly to repeatable actions, you may perform your non-repeatable action after or before any of the other actions during your turn.
 
-1. Select a player as a target.
-2. Select the hatched dragons from your side you wish to involve in the attack.
+## Ritual
 
-Once sent, it is up to the defending player to organize their defence appropriately.
+You may use two of your hatched dragons and/or mercenaries to perform a ritual if they share the same resource symbol at the bottom of the card:
 
-You cannot attack a player who hasn't had a turn yet.
+* Food: Reduces the resource requirement of one of your egg by one basic resource of our choice, only lasts until the end of turn
+* Love: Draw a card from the deck and place it as an egg on your board
+* Fire: Destroy a card, resource or egg with no resources on it from an opponent that has not been targeted yet during their off-turn
 
-## Defence
+You may involve one additional hatched dragon and/or mercenary with a wild resource to repeat the ritual you just performed with the same or a new target.
 
-Attacking dragons entering your territory will loot your land if they are not blocked. One of your dragons can block at most a single attacking dragon. Multiple of your dragons can block the same attacking dragon. Place your defending dragons in front of the attacking dragon you they will block. If the summed value of the defending dragons is higher than the attacker's, the block is succesful. As a defender, you can involve your own dragons and your contarcted mercenary dragon to block the attack.
+## Attack
 
-Defence is optional, but not defending gives an advantage to the attacker. Moreover, dragons on either side do not die from combat.
-
-If all attackers were blocked successfully, it is now the end of the attack, and the attackers return to their territory empty-handed. Otherwise, looting happens.
-
-## Looting
-
-If at least one attacker was not blocked, the attacking player can choose one of the following actions:
-
-- Destroy one egg of your choice from the defender's territory, along with all the resources attached to it. The egg and the resources are discarded.
-- Draw one card from the top of drawing deck or discard deck.
-
-After the attack, you can still perform as many internal actions as you wish, which might come in handy if you acquired new cards.
+1. Select a player that has not been targeted yet during their off-turn yet.
+2. You may reveal your mercenary to add its power to your empire's power for the purpsoe of the attack.
+3. The defending player may reveal their mercenary to add to their empire's power for the purpsoe of the defense.
+4. The player with the highest power wins the encounter. If the defense wins or ties, nothing happens, the revealed mercenaries are discarded. If the offense wins, they may either:
+  1. Bring one egg with no resource card on it from the defender's board to their board, they may hatch it as one of their own once they meet the resource requirements.
+  2. Steal one resource on display on one of the defender's eggs and place it on one of their eggs.
+  3. Steal one card at random from the defender's hand and place it in their hand.
 
 # End of game
 
-As soon as a player hatches an egg that brings their dynasty's value to 200 or higher, the end of the game is triggered. The game doesn't end yet, though. The player who triggered the end of the game can continue their turn and try to increase the value of their dynasty even more. Additionally, other players do have a turn until it reaches the starting player, so every player has had the exact same amount of turns.
+As soon as a player hatches an egg that brings their empire's power to 200 or higher, the end of the game is triggered. From then on, every card on every player's board also contributes to 5 power for their empire, including eggs, resources and face down mercenaries, but not cards in hand.
+
+The game doesn't end yet, though. The player who triggered the end of the game can continue their turn and try to increase the value of their empire even more. Additionally, other players also get one final turn until it reaches the starting player, so every player has had the exact same amount of turns.
 
 # Victory
 
-Once the end of the game was triggered and all players have had the same amount of turns in the game, the player with the highest dynasty value wins the game. In a tie, the player who triggered the end of game wins, even if they have a lower dynasty value.
+Once the end of the game was triggered and all players have had the same amount of turns in the game, the player with the highest empire power wins the game. In a tie, the player who triggered the end of game wins, even if they have a lower dynasty value.
 
 ## Thanks
 
