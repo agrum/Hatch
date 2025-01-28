@@ -53,7 +53,7 @@ Some eggs require hatched dragons to be sacrificed in order to hatch. The sacrif
 
 Only your hatched dragons can be used as sacrifices, you cannot sacrifice a mercenary. When sacrificing a dragon, its sacrifice value can be spread over multiple eggs to help them hatch. Sacrifices must be used on the turn they were done, they do not carry over to the next turn.
 
-Three eggs, resources and/or cards in hand can be discarded to provide one sacrifice's worth.
+Three eggs can be discarded to provide one sacrifice's worth. Any resources on them are discared as well.
 
 ### Wild resource
 
